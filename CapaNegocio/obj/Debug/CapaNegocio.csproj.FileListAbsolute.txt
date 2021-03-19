@@ -1,0 +1,9 @@
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\CapaNegocio\bin\Debug\CapaDato.dll
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\CapaNegocio\bin\Debug\CapaDato.pdb
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\CapaNegocio\obj\Debug\CapaNegocio.pdb

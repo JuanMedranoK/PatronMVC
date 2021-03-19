@@ -1,0 +1,14 @@
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\bin\Debug\Patron MVC.exe.config
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\bin\Debug\Patron MVC.exe
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\bin\Debug\Patron MVC.pdb
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\bin\Debug\CapaNegocio.dll
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\bin\Debug\CapaNegocio.pdb
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\obj\Debug\Patron_MVC.Categoria.resources
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\obj\Debug\Patron_MVC.Form1.resources
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\obj\Debug\Patron_MVC.Properties.Resources.resources
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\obj\Debug\Patron MVC.exe
+C:\Users\Maribel-Ciprian\source\repos\Patron MVC\Patron MVC\obj\Debug\Patron MVC.pdb
